@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Andrew Reitz",
+    "label": "Android Developer",
+    "picture": "",
+    "email": "andrew@andrewreitz.com",
+    "website": "http://andrewreitz.com",
+    "summary": "Passionate Android Developer.",
+    "location": {
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "url": "https://twitter.com/andrewreitz_",
+        "username": "andrewreitz_",
+        "network": "Twitter"
+      },
+      {
+        "url": "https://github.com/AndrewReitz",
+        "username": "AndrewReitz",
+        "network": "GitHub"
+      }
+    ]
+  },
+  "work": [
+    {
+      "highlights": [
+        "Maintain Flagship Android Application"
+      ],
+      "startDate": "2016-06-26",
+      "website": "https://target.com",
+      "position": "Senior Android Engineer",
+      "company": "Target"
+    },
+    {
+      "highlights": [
+        "Develop and maintain Android Applications"
+      ],
+      "summary": "Custom Software Design, Development and Digital Strategy Consultancy",
+      "startDate": "2016-03-17",
+      "endDate": "2017-06-23",
+      "website": "https://nerdery.com",
+      "position": "Senior Android Engineer",
+      "company": "The Nerdery"
+    },
+    {
+      "highlights": [
+        "Develop Android Application utilizing APIs, location services, and socket connections",
+        "Suportted internal libraries and tools"
+      ],
+      "summary": "Open Platform for the Internet of Things",
+      "endDate": "2016-03-07",
+      "startDate": "2014-02-18",
+      "website": "http://smartthings.com",
+      "position": "Senior Android Developer",
+      "company": "SmartThings"
+    },
+    {
+      "highlights": [
+        "Develop Android Applications utilizing APIs, location services, socket connections, and graphics manipulation",
+        "Develop node.js servers that pass messages between mobile devices and other servers",
+        "Supported ASP .NET Websites using MVC Framework, SiteCore, JavaScript, CoffeeScript, jQuery, Entity Framework, and SQL",
+        "Lead projects, manage interactions between clients and developers, write technical documents making technical choices and facilitate communication among team members.",
+        "Committee Chair of the Android Committee, helping develop standards and create tools to stream line Android development.",
+        "Used Xamarin MonoDroid to develop an Android application in C# to utilize existing .Net Library for socket communication from phone to hardware device.",
+        "Gave tech talks about Android both on and off Nerdery Campus."
+      ],
+      "summary": "Custom Software Design and Development",
+      "endDate": "2014-02-14",
+      "startDate": "2012-05-29",
+      "website": "http://nerdery.com/",
+      "position": "Developer",
+      "company": "The Nerdery"
+    }
+  ],
+  "volunteer": [{
+    "highlights": [
+        "Mainainer of Android Groovy Plugin",
+        "Mainainer of Spock on Android",
+        "Contributor to many others"
+      ],
+      "summary": "Open source contributor to many Android, Java, and Groovy projects",
+      "position": "Open Source Contributor",
+      "website": "https://github.com/AndrewReitz"
+    },
+    {
+      "highlights": [
+        "Reviewer of Learning Embedded Android N Programming",
+        "Reviewer of Gradle Recipes for Android"
+      ],
+      "summary": "Technical book reviewer, checking that code is correct and technical wording is accurate.",
+      "position": "Technical Book Reviewer"
+    },
+    {
+      "highlights": [
+        "Let's talk Security, DevFest 2017",
+        "Getting Groovy on Android, DevFest 2015",
+        "Bootstraping Android with Open Source, Feb 2015",
+        "Gradle is Gr8, Aug 2014",
+        "Dagger, Not as Scary as it Sounds, DevFest 2014"
+      ],
+      "summary": "A group to meet and discuss, learn and present on the myriad of web technologies that Google supports, promotes and offers.",
+      "website": "http://www.meetup.com/gdg-tc/",
+      "position": "Speaker",
+      "organization": "Google Developer Group of Minnesota"
+    },
+    {
+      "highlights": [
+        "Testing Gradle Plugins, Gr8Conf US 2016",
+        "Running Spock on Android, Gr8Conf US 2015",
+        "Getting Groovy on Android, Gr8Conf US 2015",
+        "Getting Groovy on Android, Sept 2014",
+        "Spock on Android, April 2015"
+      ],
+      "summary": "A group of users to talk and share expierences about the Groovy programming language.",
+      "website": "http://groovy.mn/",
+      "position": "Speaker",
+      "organization": "Groovy Users of Minnesota"
+    }
+  ],
+  "education": [
+    {
+      "gpa": "3.4",
+      "endDate": "2011-12-01",
+      "startDate": "2007-09-01",
+      "studyType": "Bachelor",
+      "area": "Computer Science",
+      "institution": "University of Minnesota Duluth"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Java",
+        "Groovy",
+        "Gradle",
+        "Dagger",
+        "Retrofit",
+        "RxJava"
+      ],
+      "level": "Master",
+      "name": "Android Development"
+    }
+  ]
+}
