@@ -12,11 +12,6 @@
     },
     "profiles": [
       {
-        "url": "https://twitter.com/andrewreitz_",
-        "username": "andrewreitz_",
-        "network": "Twitter"
-      },
-      {
         "url": "https://github.com/AndrewReitz",
         "username": "AndrewReitz",
         "network": "GitHub"
@@ -26,9 +21,19 @@
   "work": [
     {
       "highlights": [
+        "Worked on Amex Pay"
+      ],
+      "startDate": "2018-09-04",
+      "website": "https://americanexpress.com",
+      "position": "Senior Android Engineer",
+      "company": "American Express"
+    },
+    {
+      "highlights": [
         "Maintain Flagship Android Application"
       ],
       "startDate": "2017-06-26",
+      "endDate": "2018-08-23",
       "website": "https://target.com",
       "position": "Senior Android Engineer",
       "company": "Target"
@@ -132,6 +137,7 @@
   "skills": [
     {
       "keywords": [
+        "Kotlin",
         "Java",
         "Groovy",
         "Gradle",
