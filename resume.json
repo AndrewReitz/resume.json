@@ -5,7 +5,7 @@
     "picture": "",
     "email": "andrew@andrewreitz.com",
     "website": "http://andrewreitz.com",
-    "summary": "Passionate Android Developer.",
+    "summary": "Software engineer with 10 years of experience, including leading projects in fast paced dev shops and large corporate companies. Thrives working with passionate teams that love the work they do and the product they work on.",
     "location": {
       "countryCode": "US",
       "region": "Minnesota"
@@ -21,7 +21,9 @@
   "work": [
     {
       "highlights": [
-        "Worked on Amex Pay"
+        "Maintain and Expand Amex Pay NFC Payment Terminal Feature",
+        "Implemented Peer to Peer payments",
+        "Used Gradle Build Scans and Gradle Profiler to improve build speeds"
       ],
       "startDate": "2018-09-04",
       "website": "https://americanexpress.com",
@@ -30,17 +32,19 @@
     },
     {
       "highlights": [
-        "Maintain Flagship Android Application"
+        "Maintain Flagship Android Application",
+        "Used Gradle Build Scans to improve build speed",
+        "Created Android Drive Feature"
       ],
       "startDate": "2017-06-26",
       "endDate": "2018-08-23",
       "website": "https://target.com",
-      "position": "Senior Android Engineer",
+      "position": "Lead Android Engineer",
       "company": "Target"
     },
     {
       "highlights": [
-        "Develop and maintain Android Applications"
+        "One of three Android developers creating the new Hy-Vee Grocery application"
       ],
       "summary": "Custom Software Design, Development and Digital Strategy Consultancy",
       "startDate": "2016-03-17",
@@ -52,7 +56,7 @@
     {
       "highlights": [
         "Develop Android Application utilizing APIs, location services, and socket connections",
-        "Suportted internal libraries and tools"
+        "Supported internal libraries and tools"
       ],
       "summary": "Open Platform for the Internet of Things",
       "endDate": "2016-03-07",
@@ -66,10 +70,7 @@
         "Develop Android Applications utilizing APIs, location services, socket connections, and graphics manipulation",
         "Develop node.js servers that pass messages between mobile devices and other servers",
         "Supported ASP .NET Websites using MVC Framework, SiteCore, JavaScript, CoffeeScript, jQuery, Entity Framework, and SQL",
-        "Lead projects, manage interactions between clients and developers, write technical documents making technical choices and facilitate communication among team members.",
-        "Committee Chair of the Android Committee, helping develop standards and create tools to stream line Android development.",
-        "Used Xamarin MonoDroid to develop an Android application in C# to utilize existing .Net Library for socket communication from phone to hardware device.",
-        "Gave tech talks about Android both on and off Nerdery Campus."
+        "Lead projects, manage interactions between clients and developers, write technical documents making technical choices and facilitate communication among team members."
       ],
       "summary": "Custom Software Design and Development",
       "endDate": "2014-02-14",
@@ -81,11 +82,12 @@
   ],
   "volunteer": [{
     "highlights": [
-        "Mainainer of Android Groovy Plugin",
-        "Mainainer of Spock on Android",
+        "Creator of MN Pride Festival Android App",
+        "Creator of MN Off Road Cyclist Trail Conditions App",
+        "Maintainer of Android Groovy Plugin",
         "Contributor to many others"
       ],
-      "summary": "Open source contributor to many Android, Java, and Groovy projects",
+      "summary": "Open source contributor to Android, Java, and Groovy projects",
       "position": "Open Source Contributor",
       "website": "https://github.com/AndrewReitz"
     },
@@ -96,39 +98,11 @@
       ],
       "summary": "Technical book reviewer, checking that code is correct and technical wording is accurate.",
       "position": "Technical Book Reviewer"
-    },
-    {
-      "highlights": [
-        "Let's talk Security, DevFest 2017",
-        "Getting Groovy on Android, DevFest 2015",
-        "Bootstraping Android with Open Source, Feb 2015",
-        "Gradle is Gr8, Aug 2014",
-        "Dagger, Not as Scary as it Sounds, DevFest 2014"
-      ],
-      "summary": "A group to meet and discuss, learn and present on the myriad of web technologies that Google supports, promotes and offers.",
-      "website": "http://www.meetup.com/gdg-tc/",
-      "position": "Speaker",
-      "organization": "Google Developer Group of Minnesota"
-    },
-    {
-      "highlights": [
-        "Testing Gradle Plugins, Gr8Conf US 2016",
-        "Running Spock on Android, Gr8Conf US 2015",
-        "Getting Groovy on Android, Gr8Conf US 2015",
-        "Getting Groovy on Android, Sept 2014",
-        "Spock on Android, April 2015"
-      ],
-      "summary": "A group of users to talk and share expierences about the Groovy programming language.",
-      "website": "http://groovy.mn/",
-      "position": "Speaker",
-      "organization": "Groovy Users of Minnesota"
     }
   ],
   "education": [
     {
       "gpa": "3.4",
-      "endDate": "2011-12-01",
-      "startDate": "2007-09-01",
       "studyType": "Bachelor",
       "area": "Computer Science",
       "institution": "University of Minnesota Duluth"
