@@ -69,8 +69,7 @@
       "highlights": [
         "Develop Android Applications utilizing APIs, location services, socket connections, and graphics manipulation",
         "Develop node.js servers that pass messages between mobile devices and other servers",
-        "Supported ASP .NET Websites using MVC Framework, SiteCore, JavaScript, CoffeeScript, jQuery, Entity Framework, and SQL",
-        "Lead projects, manage interactions between clients and developers, write technical documents making technical choices and facilitate communication among team members."
+        "Lead projects, manage interactions between clients and developers, write technical documents, making technical choices, and facilitate communication among team members."
       ],
       "summary": "Custom Software Design and Development",
       "endDate": "2014-02-14",
@@ -81,15 +80,16 @@
     }
   ],
   "volunteer": [{
-    "highlights": [
-        "Creator of MN Pride Festival Android App",
-        "Creator of MN Off Road Cyclist Trail Conditions App",
-        "Maintainer of Android Groovy Plugin",
-        "Contributor to many others"
-      ],
-      "summary": "Open source contributor to Android, Java, and Groovy projects",
+      "organization": "Software For Good",
+      "summary": "Creator of Android Pride App",
       "position": "Open Source Contributor",
-      "website": "https://github.com/AndrewReitz"
+      "website": "https://github.com/softwareforgood/pride-android"
+    },
+    {
+      "organization": "Apache Groovy",
+      "position": "Open Source Contributor",
+      "website": "https://github.com/groovy/groovy-android-gradle-plugin/",
+      "summary": "Maintained Groovy Android Gradle Plugin"
     },
     {
       "highlights": [
@@ -100,10 +100,20 @@
       "position": "Technical Book Reviewer"
     }
   ],
+  "publications": [{
+    "name": "Minnesota Off Road Cyclist Road Conditions App",
+    "website": "https://play.google.com/store/apps/details?id=com.andrewreitz.cash.andrew.mntrailconditions",
+    "summary": "Created backend and Android application for viewing the trail conditions around Minnesota"
+  },{
+    "name": "Light Alarm",
+    "website" : "https://play.google.com/store/apps/details?id=cash.andrew.lightalarm",
+    "summary" : "Alarm that wakes you up with your flashlight instead of with sound."
+  }],
   "education": [
     {
-      "gpa": "3.4",
-      "studyType": "Bachelor",
+      "endDate": "2011-12-01",
+      "startDate": "2007-09-01",
+      "studyType": "Bachelor of Science",
       "area": "Computer Science",
       "institution": "University of Minnesota Duluth"
     }
