@@ -101,7 +101,7 @@
     }
   ],
   "publications": [{
-    "name": "Minnesota Off Road Cyclist Road Conditions App",
+    "name": "Minnesota Off Road Cyclist Trail Conditions App",
     "website": "https://play.google.com/store/apps/details?id=com.andrewreitz.cash.andrew.mntrailconditions",
     "summary": "Created backend and Android application for viewing the trail conditions around Minnesota"
   },{
