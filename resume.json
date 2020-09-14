@@ -14,7 +14,12 @@
       {
         "url": "https://github.com/AndrewReitz",
         "username": "AndrewReitz",
-        "network": "GitHub"
+        "network": "github"
+      },
+      {
+        "url": "https://gitlab.com/andrew.reitz",
+        "username": "andrew.reitz",
+        "network": "gitlab"
       }
     ]
   },
